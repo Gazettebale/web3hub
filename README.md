@@ -6,6 +6,8 @@
 
 Web3Hub is an open-source aggregator for Web3 job listings, hackathons, bug bounties, and grants. No account needed, no paywalls — just real-time data from the best sources in the ecosystem.
 
+**Live demo: [web3hub-beta.vercel.app](https://web3hub-beta.vercel.app)**
+
 > Add a screenshot here: `public/screenshot.png`
 
 ---
